@@ -4,19 +4,19 @@
 ![Novice Efficiency Engineer](https://cdn.discordapp.com/attachments/836304753691459614/1168550487558197258/level_1-removebg-preview.png?ex=65522c72&is=653fb772&hm=5144b4ee47b126eec796e698b4ba99d2923d03df72240f226a487bca06360ec6&)
 
 ## Level 2: Mechanical Taskmaster
-![Mechanical Taskmaster]([./path/to/image2.png](https://cdn.discordapp.com/attachments/836304753691459614/1168557641702846604/level_2-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=370c4103690b9e596e48008bd63b78974630d03f99faf9f30ee31759cc315214&))
+![Mechanical Taskmaster](https://cdn.discordapp.com/attachments/836304753691459614/1168557641702846604/level_2-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=370c4103690b9e596e48008bd63b78974630d03f99faf9f30ee31759cc315214&)
 
 ## Level 3: Productive Innovator
-![Productive Innovator]([./path/to/image3.png](https://cdn.discordapp.com/attachments/836304753691459614/1168557641988055104/level_3-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=d5cc3dd9e540bf0942021f81edead4576100ea5a747593891408873d74f87489&))
+![Productive Innovator](https://cdn.discordapp.com/attachments/836304753691459614/1168557641988055104/level_3-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=d5cc3dd9e540bf0942021f81edead4576100ea5a747593891408873d74f87489&)
 
 ## Level 4: Cybernetic Organizer
-![Cybernetic Organizer]([./path/to/image4.png](https://cdn.discordapp.com/attachments/836304753691459614/1168557642390716506/level_4-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=594d6595f3ac9d0b06f690d063100af02787d4badc9542d5a13eb138cbfc65de&))
+![Cybernetic Organizer](https://cdn.discordapp.com/attachments/836304753691459614/1168557642390716506/level_4-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=594d6595f3ac9d0b06f690d063100af02787d4badc9542d5a13eb138cbfc65de&)
 
 ## Level 5: Efficiency Engine
-![Efficiency Engine]([./path/to/image5.png](https://cdn.discordapp.com/attachments/836304753691459614/1168557642675925122/level_5-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=203f2fdc76d76974c799852289267b13cd212ee0395b2cd495432b8d6b035e41&))
+![Efficiency Engine](https://cdn.discordapp.com/attachments/836304753691459614/1168557642675925122/level_5-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=203f2fdc76d76974c799852289267b13cd212ee0395b2cd495432b8d6b035e41&)
 
 ## Level 6: Robo-Task Ninja
-![Robo-Task Ninja]([./path/to/image6.png](https://cdn.discordapp.com/attachments/836304753691459614/1168557642944356443/level_6-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=3a4827672e1d4713472970572bf61b07d51e1f4119cdc23f0741db9794b3e9f1&))
+![Robo-Task Ninja](https://cdn.discordapp.com/attachments/836304753691459614/1168557642944356443/level_6-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=3a4827672e1d4713472970572bf61b07d51e1f4119cdc23f0741db9794b3e9f1&)
 
 ## Level 7: Steel Efficiency Guru
 ![Steel Efficiency Guru](https://cdn.discordapp.com/attachments/836304753691459614/1168557643305074688/level_7-removebg-preview.png?ex=6552331c&is=653fbe1c&hm=9937581b50f17ca0bc1aa34ac64aa9117a30bbb2d3456e9afcec938f7cdbf1b4&)
